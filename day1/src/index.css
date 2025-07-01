@@ -1,0 +1,14 @@
+.card .img{
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+}
+.card{
+    box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 0.2);
+    max-width: 400px;
+    text-align: center;
+    padding: 10px;
+}
+#tit{
+    font-family: Arial, sans-serif;
+}
